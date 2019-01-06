@@ -45,5 +45,9 @@
 *docker-compose down</br>
 *docker-compose up</br>
 *docker-compose build</br>
+
+docker exec -it alura-books-1 ping node2- executa o comando ping node2 dentro do container alura-books-1
+
 <b>exe: docker-compose build<br>
      docker-compose up</b>
+
