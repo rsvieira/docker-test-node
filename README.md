@@ -1,6 +1,4 @@
-######################### 
 #Docker! Baseado no Alura
-#########################
 
 ##commados basics docker
 #docker rm
